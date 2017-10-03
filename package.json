@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-intercom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gatsby plugin to add Intercom button onto a site",
   "author": "Heinrich Filter <heinrich@intelligentrouting.io>",
   "license": "MIT",
@@ -21,7 +21,6 @@
     "gatsby-plugin",
     "intercom"
   ],
-  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir . --ignore __tests__",
