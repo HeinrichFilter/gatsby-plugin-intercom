@@ -1,6 +1,6 @@
 # gatsby-plugin-intercom
 
-Easily add the Intercom button to your Gatsby site.
+Easily add the [Intercom](https://www.intercom.com/) button to your Gatsby site.
 
 ## Install
 `npm install --save gatsby-plugin-intercom`
