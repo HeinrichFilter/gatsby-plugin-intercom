@@ -14,6 +14,7 @@ plugins: [
     resolve: `gatsby-plugin-intercom`,
     options: {
       appId: 'YOUR_INTERCOM_APP_ID',
+      includeInDevelopment: false,
     },
   },
 ]
